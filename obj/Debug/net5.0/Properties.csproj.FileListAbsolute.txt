@@ -1,0 +1,15 @@
+/Users/daniel.tran/Properties/bin/Debug/net5.0/Properties.deps.json
+/Users/daniel.tran/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/Users/daniel.tran/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/Users/daniel.tran/Properties/bin/Debug/net5.0/Properties.dll
+/Users/daniel.tran/Properties/bin/Debug/net5.0/ref/Properties.dll
+/Users/daniel.tran/Properties/bin/Debug/net5.0/Properties.pdb
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.csprojAssemblyReference.cache
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.dll
+/Users/daniel.tran/Properties/obj/Debug/net5.0/ref/Properties.dll
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.pdb
+/Users/daniel.tran/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
